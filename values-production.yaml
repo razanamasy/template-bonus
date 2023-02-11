@@ -8,4 +8,4 @@ spec:
     targetPort: 8888
   selector:
     app: wil-playground
-      #  type: LoadBalancer
+  type: LoadBalancer
